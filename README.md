@@ -8,4 +8,7 @@ A simple Python script that prints my name to the console. This is part of my AL
 
 ```bash
 python3 main.py
+📬 Contact
+
+Email: mercypatricks007@gmail.com
 
